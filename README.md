@@ -2,6 +2,11 @@
 ```
 본 프로젝트는 인프런 강의 실습 프로젝트입니다.
 (This project is inflearn lecture practice project.)
+
+lang : TypeScript
+Vue : @vue/cli 4.5.12
+Node.js : v14.17.5
+npm : 7.20.5
 ```
 
 ## Project setup
