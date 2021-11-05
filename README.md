@@ -1,4 +1,8 @@
 # vue-schdule
+```
+본 프로젝트는 인프런 강의 실습 프로젝트입니다.
+(This project is inflearn lecture practice project.)
+```
 
 ## Project setup
 ```
