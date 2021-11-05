@@ -20,6 +20,7 @@ export default class ItemInput extends Vue {
   title: string = '';
     addItem() {
       this.$store.commit('addItem', {
+        // id : 
         id: this.todoList.length,
         title: this.title,
         status: 'active',
